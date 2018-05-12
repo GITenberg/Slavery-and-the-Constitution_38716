@@ -1,0 +1,27 @@
+_repo: Slavery-and-the-Constitution_38716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bowditch, William I. (William Ingersoll)
+    birthdate: 1819
+    deathdate: 1909
+    gutenberg_agent_id: '39623'
+    url: http://www.gutenberg.org/2009/agents/39623
+description: ''
+gutenberg_issued: '2012-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Slaves -- United States -- Social conditions'
+- !lcc 'E300'
+title: Slavery and the Constitution
+url: http://www.gutenberg.org/ebooks/38716
