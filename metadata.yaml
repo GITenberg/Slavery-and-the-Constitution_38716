@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39623'
     url: http://www.gutenberg.org/2009/agents/39623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38716#Slavery-and-the-Constitution
 gutenberg_issued: '2012-01-30'
 gutenberg_type: Text
 identifiers:
